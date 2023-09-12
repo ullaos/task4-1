@@ -1,0 +1,116 @@
+
+/* container */
+.container{
+/* max-width: 100vw; */
+}
+
+/* hero */
+/* bg imag */
+
+.hero{
+    background-image:  url(../images/christopher-gower-m_HRfLhgABo-unsplash\(1\).jpg);
+    box-shadow: inset 0 0 0 2000px rgba(101, 90, 246, 0.79);
+    background-size: cover;
+    max-width: 100vw;
+    background-position: center;
+    position: relative;
+    height: 600px;
+}
+/* end bg img */
+/* browse top category */
+
+.card1 .icon-parent{
+    height: 35px;
+    width: 35px;
+    position: absolute;
+}
+.card1 .icon1{
+    position: relative; top: 6px; right: -8px;
+}
+.card1 p{
+    font-size: 1rem !important;
+}
+/* end browse top category */
+/* becom an instructor */
+.person{
+    height: 100%;
+    width: 100%; 
+    position: absolute; 
+    top: -50px;
+}
+.person-parent{
+    height: 42.5rem; 
+    width: 33.7rem; 
+    position: relative;
+}
+/* end becom an instructor */
+
+/* we have the best education */
+.card2{
+    width: 21rem;
+}
+.cadr2-parent{
+
+}
+
+.icon{
+    color: blue;
+    margin: auto;
+    font-size: 1.5rem;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    border-color: 2px;  
+}
+/* the right course for u */
+.icon3{
+    color: rgb(0, 145, 255);
+}
+.rate{
+    color: rgba(219, 219, 58, 0.837);
+}
+a{
+    text-decoration: none;
+}
+.cardp{
+    font-size: 1.5rem;
+}
+.card3{
+    border-radius: 0%;
+}
+/* end the right course for you */
+/* education for tomorrow's leader imag */
+
+.education{
+    background-image:  url(../images/2.jpg);
+    box-shadow: inset 0 0 0 2000px rgba(101, 90, 246, 0.79);
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+
+}
+/* end education for tomorrow's leader */
+/* about us */
+
+.vd{
+box-shadow:25% 25% 100px rgb(208, 225, 247);
+
+}
+
+
+.card4{
+    width: 33.17rem !important;
+    height: 18.75rem;
+}
+
+
+.next{
+    width: 10px !important;
+    height: 10px !important;
+}
+
+
+
+
+
+
